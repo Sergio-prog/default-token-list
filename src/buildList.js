@@ -30,20 +30,20 @@ module.exports = function buildList() {
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["uniswap", "default"],
     tokens: [
-      ...mainnet,
-      ...ropsten,
-      ...goerli,
-      ...kovan,
-      ...rinkeby,
-      ...polygon,
-      ...mumbai,
-      ...optimism,
-      ...celo,
-      ...arbitrum,
-      ...bnb,
-      ...sepolia,
-      ...avalanche,
-      ...base
+      // ...mainnet,
+      // ...ropsten,
+      // ...goerli,
+      // ...kovan,
+      // ...rinkeby,
+      // ...polygon,
+      // ...mumbai,
+      // ...optimism,
+      // ...celo,
+      // ...arbitrum,
+      // ...bnb,
+      ...sepolia
+      // ...avalanche,
+      // ...base
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
