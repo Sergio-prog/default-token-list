@@ -14,5 +14,21 @@
     "decimals": 18,
     "chainId": 11155111,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "Liquidity Ether",
+    "address": "0x47799677EDb4515f49cd5b842614297F89086d5C",
+    "symbol": "LETH",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png"
+  },
+  {
+    "name": "Liquidity USD",
+    "address": "0x7465EC19030bE20879364DDE8A8E57647AbBb147",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "https://thegivingblock.com/wp-content/uploads/2022/04/LiquityUSD-LUSD-logo.png"
   }
 ]
